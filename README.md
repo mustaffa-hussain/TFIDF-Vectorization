@@ -1,4 +1,4 @@
-# TFIDF-Vectorization
+# Implementaion from scratch ofTFIDF-Vectorization
 <font face='georgia'>
     
    <h4><strong>What does tf-idf mean?</strong></h4>
